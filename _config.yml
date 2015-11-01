@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Absolwenci Funduszu' 
+tagline:          'Klub Absolwenta KFnrD'
+description:      'Klub Absolwenta Krajowego Funduszu na&nbsp;Rzecz Dzieci'
+url:              http://absolwenci-funduszu.org
+baseurl:          /
+
+author:
+  name:           'Błażej Osiński'
+
+paginate:         5
