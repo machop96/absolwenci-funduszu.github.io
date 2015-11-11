@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Zjazd 
+title: Zjazd
+headline: Zjazd Absolwentów Funduszu
 ---
 
-Mamy zaszczyt zaprosić państwa na *Pierwszy Zjazd Absolwentów Krajowego Funduszu na Rzecz Dzieci*.
+Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rzecz Dzieci*.
 
 ## Informacje w skrócie:
 

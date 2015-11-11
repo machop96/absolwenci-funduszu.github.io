@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Kontakt 
+title: Kontakt
+headline: Kontakt
 ---
 
 Aby wyrazić swoje zainteresowanie akcjami Klubu Absolwenta (np. Zjazdem, platformą internetową),

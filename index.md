@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Start 
+title: Start
+headline: Powstaje Klub Absolwentów KFnrD!
 ---
 
 > Czy byłeś kiedyś na obozach naukowych lub warsztatach Krajowego Funduszu na rzecz Dzieci?
