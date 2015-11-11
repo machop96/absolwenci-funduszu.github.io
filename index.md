@@ -1,35 +1,31 @@
 ---
 layout: page
-title: O Klubie 
+title: Start 
 ---
 
-Klub Absolwentów Krajowego Funduszu na Rzecz Dzieci stawia przed sobą dwa zadania:
+> Czy byłeś kiedyś na obozach naukowych lub warsztatach Krajowego Funduszu na rzecz Dzieci?
+> Dawnych podopiecznych i stypendystów Funduszu są tysiące!
+> Postanowiliśmy założyć Klub Absolwentów.
+>
+> Dołącz do nas!
 
-*   integrację środowiska Funduszu
+Klub stawia przed sobą dwa podstawowe zadania:
 
-    Osoby związane z Funduszem zajmują się obecnie bardzo różnymi dziedzinami życia
-    (nauka, biznes, sztuka, działalność społeczna), często odnosząc w niej spore sukcesy.
-    Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą,
-    wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.
-    Chcemy by Klub wypełnił tę lukę, dlatego też za główne zadanie na ten rok uznaliśmy
-    organizację Zjazdu Absolwentów, który odbędzie się 19.12.2015 w Warszawie.
- 
-    Do Klubu zapraszamy wszystkie osoby, którym bliskie jest doświadczenie Funduszu - zarówno
-    absolwentów programu pomocy wybitnie zdolnym (kandydatów, podopiecznych i stypendystów),
-    ale także tutorów i inne zaangażowane osoby.
+* integrację środowiska absolwentów
+* stanowienie wsparcia dla Funduszu
 
-*   wspieranie Funduszu
-  
-    Jesteśmy bardzo wdzięczni Funduszowi za otrzymane możliwości rozwoju
-    i z tego powodu chcielibyśmy pomóc w rozwijaniu jego działalności.
-    Z pewnością możemy i powinniśmy być wsparciem finansowym, doradczym i organizacyjnym.
-    O różnych możliwościach wsparcia Funduszu będziemy dyskutowali na zjeździe.
- 
-    Bardzo prostym przykładem wsparcia, które zajmie mniej niż 1 minutę,
-    to zagłosowanie na Fundusz w plebiscycie
-    [Tak na dobrą sprawę](http://taknadobrasprawe.pl/#krajowy-fundusz-na-rzecz-dzieci).
-    Dzięki tej akcji Fundusz może otrzymać dodatkowe pieniądze na swoją działalność,
-    a także zwiększyć swoją rozpoznawalność.
+Więcej o idea przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
 
-Jeżeli jesteś człowiekiem Funduszu i chciałbyś brać udział w inicjatywach Funduszu
-zapraszamy do zapisania się poprzez [formularz](http://absolwenci-funduszu.org/zgloszenia). 
+## Działalność Klubu oficjalnie zainaugurujemy na Zjeździe Absolwentów.
+
+Spotykamy się już **19 grudnia 2015** w Warszawie, a zapisy trwają tylko do **22 listopada**.
+Więcej informacji o Zjeździe znajduje się [tutaj](/zjazd).
+
+Nawet jeżeli nie możesz przyjechać na Zjazd wypełnił 
+[formularz](http://absolwenci-funduszu.org/zgloszenia),
+by dołączyć do innych inicjatyw Klubu.
+
+Pomoc Funduszowi możesz już teraz, poświęcając minutę na głosowanie w plebiscycie
+[Tak na dobrą sprawę](http://taknadobrasprawe.pl/#krajowy-fundusz-na-rzecz-dzieci).
+Dzięki tej akcji Fundusz może otrzymać dodatkowe pieniądze na swoją działalność,
+a także zwiększyć swoją rozpoznawalność.
