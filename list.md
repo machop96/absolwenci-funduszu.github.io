@@ -1,6 +1,7 @@
 ---
 layout: page
-title: List założycielski 
+title: List założycielski
+headline: List założycielski
 ---
 
 <p class="message">
