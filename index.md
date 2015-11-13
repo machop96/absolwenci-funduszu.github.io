@@ -4,17 +4,11 @@ title: Start
 headline: Powstaje Klub Absolwentów KFnrD!
 ---
 
-> Czy byłeś kiedyś na obozach naukowych lub warsztatach
-> [Krajowego Funduszu na rzecz Dzieci](http://fundusz.org)?
-> Osoby związane z Funduszem zajmują się obecnie z sukcesami bardzo różnymi dziedzinami życia,
-> a razem możemy dokonać jeszcze więcej.
->
-> Postanowiliśmy założyć Klub Absolwentów, dołącz do nas!
-
-Klub stawia przed sobą dwa podstawowe zadania:
-
-* integrację środowiska absolwentów
-* stanowienie wsparcia dla Funduszu
+Osoby związane z [Funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia
+(nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
+Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą,
+wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.
+Chcemy by Klub wypełnił tę lukę, a także stanowił naturalne wsparcie dla działań Funduszu.
 
 Więcej o idea przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
 
