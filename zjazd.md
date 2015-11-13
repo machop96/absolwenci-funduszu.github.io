@@ -26,7 +26,7 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
   * dyskusje panelowe,
   * krótki koncert,
   * sesja 5-minutowych wystąpień uczestników na różne tematy
-    ([więcej informacji](http://absolwenci-funduszu.org/flaszki)); zachęcamy do zgłoszeń! (termin: 6 grudnia 2015)
+    ([więcej informacji](http://absolwenci-funduszu.org/flaszki)); zachęcamy do zgłoszeń! (termin: 3 grudnia 2015)
 
 ## Rejestracja na Zjazd 
 
