@@ -4,13 +4,13 @@ title: Start
 headline: Powstaje Klub Absolwentów KFnrD!
 ---
 
-Osoby związane z [Funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia
-(nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
-Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą,
-wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.
-Chcemy by Klub wypełnił tę lukę, a także stanowił naturalne wsparcie dla działań Funduszu.
+> Osoby związane z [Funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia
+> (nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
+> Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą,
+> wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.  
 
-Więcej o idea przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
+Chcemy by Klub wypełnił tę lukę, a także stanowił naturalne wsparcie dla działań Funduszu.
+Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
 
 ## Działalność Klubu zainaugurujemy na Zjeździe Absolwentów.
 
