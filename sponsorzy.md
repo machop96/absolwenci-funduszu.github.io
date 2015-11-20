@@ -44,6 +44,7 @@ wyjazdy na konferencje.
 
 * *Scala Big Data Developer* - zrównoleglanie algorytmów machine learningowych w Scali na platformie Apache Spark.
 
+* *Data Scientist* - przetwarzanie i analizowanie dużych ilości danych na potrzeby klienta.
 
 Kontakt:
 
