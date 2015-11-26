@@ -8,6 +8,8 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Informacje w skrócie:
 
+> Termin zakończenia rejestracji został przesunięty na **30 listopada 2015**!
+
 * *Kiedy?*  
   Zjazd odbędzie się **19 grudnia 2015**. 
   Część oficjalna rozpocznie się o **11:00** i potrwa ok. 6 godzin (wraz z przerwami).
@@ -30,7 +32,8 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Rejestracja na Zjazd 
 
-Aby wziąć udział w Zjeździe należy do dnia **22. listopada 2015** spełnić dwa warunki: *wypełnić zgłoszenie* oraz *wnieść opłatę rejestracyjną*. 
+Aby wziąć udział w Zjeździe należy do dnia **30 listopada 2015** <del>22 listopada 2015</del>
+spełnić dwa warunki: *wypełnić zgłoszenie* oraz *wnieść opłatę rejestracyjną*.
 
 ### 1. Wypełnić zgłoszenie 
 
@@ -68,11 +71,15 @@ W przypadku jakichkolwiek pytań dotyczących Zjazdu, a także niestandardowych 
 prosimy o kontakt mailowy pod adresem
 [absolwenci.funduszu@gmail.com](mailto:absolwenci.funduszu@gmail.com).
 
-## Sponsor główny
+## Sponsorzy
 
-Sponsorem głównym Zjazdu jest **9LivesData**.
+Sponsorami głównymi Zjazdu są **9LivesData** i **KontomatiK**.
 
-[<img src="/images/9lsd_log.png" alt="Logo 9LivesData" align="centre" style="width: 500px;" />](/sponsorzy/)
+Więcej o sponsorach:
+
+[<img src="/images/9lsd_log.png" alt="Logo 9LivesData" align="centre" style="width: 500px;" />](/sponsorzy#9ld_anchor)
+
+[<img id="kontomatik_anchor" src="/images/kontomatik_log.png" alt="Logo Kontomatik" align="centre" style="width: 500px;" />](/sponsorzy#kontomatik_anchor)
 
 ## Mapa
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39106.91814017354!2d20.96447045501197!3d52.22190416740095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xeb502e63f53718c9!2sUniwersytet+Warszawski%3A+Wydzia%C5%82+Fizyki!5e0!3m2!1sen!2spl!4v1447361335639" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
