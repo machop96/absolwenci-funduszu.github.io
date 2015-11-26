@@ -8,6 +8,8 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Informacje w skrócie:
 
+> Termin zakończenia rejestracji został przesunięty na **30 listopada 2015**!
+
 * *Kiedy?*  
   Zjazd odbędzie się **19 grudnia 2015**. 
   Część oficjalna rozpocznie się o **11:00** i potrwa ok. 6 godzin (wraz z przerwami).
@@ -30,7 +32,8 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Rejestracja na Zjazd 
 
-Aby wziąć udział w Zjeździe należy do dnia **22. listopada 2015** spełnić dwa warunki: *wypełnić zgłoszenie* oraz *wnieść opłatę rejestracyjną*. 
+Aby wziąć udział w Zjeździe należy do dnia **30 listopada 2015** <del>22 listopada 2015</del>
+spełnić dwa warunki: *wypełnić zgłoszenie* oraz *wnieść opłatę rejestracyjną*.
 
 ### 1. Wypełnić zgłoszenie 
 
