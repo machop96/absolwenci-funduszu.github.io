@@ -8,7 +8,7 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Informacje w skrócie:
 
-> Termin zakończenia rejestracji został przesunięty na **30 listopada 2015**!
+> Rejestracja dodatkowa trwa do **10 grudnia 2015**!
 
 * *Kiedy?*  
   Zjazd odbędzie się **19 grudnia 2015**. 
@@ -32,8 +32,10 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Rejestracja na Zjazd 
 
-Aby wziąć udział w Zjeździe należy do dnia **30 listopada 2015** <del>22 listopada 2015</del>
-spełnić dwa warunki: *wypełnić zgłoszenie* oraz *wnieść opłatę rejestracyjną*.
+Podstawowa rejestracja zakończyła się 30 listopada.
+Nadal jest możliwość dołączenia do wydarzenia w ramach **rejestracji dodatkowej**,
+która będzie trwała do **10 grudnia 2015**.
+Do tego dnia należy spełnić dwa warunki: *wypełnić zgłoszenie* oraz *wnieść opłatę rejestracyjną*.
 
 ### 1. Wypełnić zgłoszenie 
 
@@ -45,7 +47,7 @@ to ten krok można pominąć.
 
 ### 2. Wnieść opłatę rejestracyjną
 
-Minimalna opłata za udział wynosi 60 zł (pracujący, doktoranci) albo 30 zł (studenci).
+W rejestracji dodatkowej minimalna opłata za udział to 110 zł.
 Należy ją przelać na konto:
 
 > 69 1020 1156 0000 7502 0049 9731  
@@ -54,15 +56,20 @@ Należy ją przelać na konto:
 >
 > Tytuł przelewu: *Darowizna na cele statutowe - absolwent*
 
-Chcielibyśmy zaznaczyć, że podane kwoty to opłaty minimalne,
-a szacowany koszt organizacji Zjazdu na osobę to 110 zł.
-Cała nadwyżka ponad koszty organizacji Zjazdu będzie automatycznie darowizną wspierającą Fundusz.
-Dlatego, o ile to możliwe, zachęcamy do dokonywania wyższych wpłat wedle uznania.
+Niestety, opłata minimalna w rejestracji dodatkowej jest wyższa niż wcześniej,
+nie ma także zniżki dla studentów.
+Kwota została ustalona na podstawie szacowanych kosztów organizacji,
+a cała nadwyżka będzie automatycznie darowizną wspierającą Fundusz.
+Jeżeli dla kogoś z Państwa finanse są przeszkodą w udziale bardzo prosimy o kontakt,
+postaramy się wspólnie znaleźć rozwiązanie.
+
+Nadal można dokonać wpłaty wyższej niż minimalna,
+dzięki temu będziemy mogli m.in. umożliwić udział osobom, dla których finanse są główną przeszkodą.
 Ponadto, jeżeli znają Państwo firmę lub instytucję potencjalnie zainteresowaną sponsorowaniem zjazdu,
 uprzejmie prosimy o kontakt.
 
-Potwierdzenie przyjęcia zgłoszenia otrzymają Państwo mailem po zaksięgowaniu
-opłaty rejestracyjnej (potwierdzenia wysyłamy raz w tygodniu).
+Potwierdzenie przyjęcia zgłoszenia otrzymają Państwo mailem po zaksięgowaniu opłaty rejestracyjnej.
+Staramy się to robić raz w tygodniu, ale w związku z natłokiem pracy nie zawsze się to udaje, za co bardzo przepraszamy.
 
 ## Kontakt
 
