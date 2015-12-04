@@ -60,12 +60,11 @@ Niestety, opłata minimalna w rejestracji dodatkowej jest wyższa niż wcześnie
 nie ma także zniżki dla studentów.
 Kwota została ustalona na podstawie szacowanych kosztów organizacji,
 a cała nadwyżka będzie automatycznie darowizną wspierającą Fundusz.
-W związku z krótkim czasem do wydarzenia nie chcemy ryzykować zbyt wysokim deficytem budżetu.
 Jeżeli dla kogoś z Państwa finanse są przeszkodą w udziale bardzo prosimy o kontakt,
 postaramy się wspólnie znaleźć rozwiązanie.
 
 Nadal można dokonać wpłaty wyższej niż minimalna,
-pomoże to na przykład pokryć koszty udziału osób, które mają trudności z opłaceniem udziału.
+dzięki temu będziemy mogli m.in. umożliwić udział osobom, dla których finanse są główną przeszkodą.
 Ponadto, jeżeli znają Państwo firmę lub instytucję potencjalnie zainteresowaną sponsorowaniem zjazdu,
 uprzejmie prosimy o kontakt.
 
