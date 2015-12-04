@@ -4,7 +4,7 @@ title: Kontakt
 headline: Kontakt
 ---
 
-Aby wyrazić swoje zainteresowanie akcjami Klubu Absolwenta (np. Zjazdem, platformą internetową),
+Jeśli chcesz wyrazić swoje zainteresowanie akcjami Klubu Absolwenta (np. Zjazdem, platformą internetową),
 uprzejmie prosimy o wypełnienie [formularza](http://absolwenci-funduszu.org/zgloszenia).
 
 W kwestiach dotyczących działalności Klubu prosimy o kontakt na e-mail:
