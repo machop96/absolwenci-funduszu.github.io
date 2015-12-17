@@ -44,7 +44,7 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
   * podsumowanie dyskusji
   * powołanie stowarzyszenia absolwentów oraz wybór władz
 * 16:30 (sala 0.03) Koncert
-17:00 (atrium budynku Centrum Nowych Technologii, ul. S. Banacha 2C) ￼Bankiet
+* 17:00 (atrium budynku Centrum Nowych Technologii, ul. S. Banacha 2C) ￼Bankiet
 
 
 ## Rejestracja na Zjazd (zamknięta)
