@@ -8,8 +8,6 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
 
 ## Informacje w skrócie:
 
-> Rejestracja dodatkowa trwa do **10 grudnia 2015**!
-
 * *Kiedy?*  
   Zjazd odbędzie się **19 grudnia 2015**. 
   Część oficjalna rozpocznie się o **11:00** i potrwa ok. 6 godzin (wraz z przerwami).
@@ -30,7 +28,25 @@ Mamy zaszczyt zaprosić Państwa na *Zjazd Absolwentów Krajowego Funduszu na Rz
   * sesja 5-minutowych wystąpień uczestników na różne tematy
     ([więcej informacji](http://absolwenci-funduszu.org/flaszki)); zachęcamy do zgłoszeń! (termin: 3 grudnia 2015)
 
-## Rejestracja na Zjazd 
+## Plan
+
+* 10:15 (hol na parterze) Otwarcie rejestracji
+* 11:00 (sala 0.03) Otwarcie zjazdu
+* 11:10 (sala 0.03) Sesja I: refleksje przedstawicieli zarządu oraz biura funduszu
+* 11:30 (sala 0.03) Sesja II: historie oraz krótkie wystąpienia absolwentów (flashtalks)
+* 12:10 (hol na parterze) Przerwa kawowa
+* 12:40 (sala 0.03) Sesja II, kontynuacja
+* 13:30 Sesja III: dyskusje (równolegle w dwóch salach):
+  * (sala 0.03) ocena programu z perspektywy lat
+  * (sala 0.06) możliwości wsparcia funduszu
+* 14:30 (hol na parterze) Przerwa kawowa
+* 15:00 (sala 0.03) Sesja IV: zakończenie
+  * podsumowanie dyskusji
+  * powołanie stowarzyszenia absolwentów oraz wybór władz
+* 16:30 (sala 0.03) Koncert
+17:00 (atrium budynku Centrum Nowych Technologii, ul. S. Banacha 2C) ￼Bankiet
+￼
+## Rejestracja na Zjazd (zamknięta)
 
 Podstawowa rejestracja zakończyła się 30 listopada.
 Nadal jest możliwość dołączenia do wydarzenia w ramach **rejestracji dodatkowej**,
