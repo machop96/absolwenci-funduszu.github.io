@@ -25,7 +25,7 @@ Szczegóły organizacyjne spotkań (takie jak miejsce i dodatkowe atrakcje), bę
 Będziemy je publikowali na bieżąco tutaj i na [wydarzeniu na Facebooku](https://www.facebook.com/events/1675475666050988/).
 
 Bardzo serdecznie zachęcamy do organizacji kolejnych, podobnych spotkań w innym miejscach (np. Kraków, Londyn),
-czy tez we  własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie roku...).
+czy też we własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie).
 Można liczyć na wsparcie z naszej strony, głównie w postaci udostępnienia kanałów informacyjnych, którymi dysponujemy.
 
 ## Inne inicjatywy
