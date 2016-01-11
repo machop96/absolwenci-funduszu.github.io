@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            'Absolwenci Funduszu' 
-tagline:          'Klub Absolwenta KFnrD'
-description:      'Klub Absolwenta Krajowego Funduszu na&nbsp;Rzecz Dzieci'
+tagline:          'Stowarzyszenie Absolwentów KFnrD'
+description:      'Stowarzyszenie Absolwentów Krajowego Funduszu na&nbsp;rzecz Dzieci'
 url:              http://absolwenci-funduszu.org
 baseurl:          /
 

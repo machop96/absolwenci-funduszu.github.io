@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Start
-headline: Powstaje Klub Absolwentów KFnrD!
+headline: Stowarzyszenie Absolwentów KFnrD
 ---
 
 > Osoby związane z [Funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia
@@ -9,23 +9,29 @@ headline: Powstaje Klub Absolwentów KFnrD!
 > Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą,
 > wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.  
 
-Chcemy by Klub wypełnił tę lukę, a także stanowił naturalne wsparcie dla działań Funduszu.
+Chcemy by Stowarzyszenie wypełniło tę lukę, a także stanowiło naturalne wsparcie dla działań Funduszu.
 Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
 
-## Działalność Klubu zainaugurujemy na Zjeździe Absolwentów.
+## Nadchodzące inicjatywy
 
-Spotykamy się już **19 grudnia 2015** w Warszawie, a zapisy trwają tylko do **22 listopada**.
-Więcej informacji o Zjeździe znajduje się [tutaj](/zjazd).
+Jeszcze w styczniu 2016 planujemy nieformalne spotkania o lokalnym zasięgu.
+Na chwilę obecną mamy zaplanowane:
+
+* spotkanie w Warszawie (23.01), koordynowane przez Filipa Kiałkę (*mirus.animus (at) gmail.com*)
+* spotkanie we Wrocławiu (23.01), koordynowane przez Krzysztofa Piecucha (*krzysztof.piecuch (at) gmail.com*),
+  poszukiwani też chętni do współorganizacji.
+
+Szczegóły organizacyjne spotkań (takie jak miejsce i dodatkowe atrakcje), będą uzależnione od liczby gości i ich preferencji.
+Będziemy je publikowali na bieżąco tutaj i na [wydarzeniu na Facebooku](https://www.facebook.com/events/1675475666050988/).
+
+Bardzo serdecznie zachęcamy do organizacji kolejnych, podobnych spotkań w innym miejscach (np. Kraków, Londyn),
+czy tez we  własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie roku...).
+Można liczyć na wsparcie z naszej strony, głównie w postaci udostępnienia kanałów informacyjnych, którymi dysponujemy.
 
 ## Inne inicjatywy
 
-*Nawet jeżeli nie możesz przyjechać na Zjazd wypełnij
-[formularz](http://absolwenci-funduszu.org/zgloszenia),
-by dołączyć do innych inicjatyw Klubu.*
+*Jeżeli chcesz być na bieżąco z innymi inicjatywami Klubu, wypełnij
+[formularz](http://absolwenci-funduszu.org/zgloszenia).*
 
-**Pomóc Funduszowi możesz już teraz**, poświęcając minutę na głosowanie w plebiscycie
-[Tak na dobrą sprawę](http://taknadobrasprawe.pl/#krajowy-fundusz-na-rzecz-dzieci).
-Dzięki tej akcji Fundusz może otrzymać dodatkowe pieniądze na swoją działalność,
-a także zwiększyć swoją rozpoznawalność.
-
-<img src="/images/jadwisin_1990.jpg" alt="Zdjęcie z Jadwisina, 1990" align="centre" />
+<img src="/images/zjazd.jpg" alt="Zdjęcie ze Zjazdu, grudzień 2015" align="centre" />
+**Zjazd Absolwentów, 19.12.2015. fot. Sebastian Soberski**
