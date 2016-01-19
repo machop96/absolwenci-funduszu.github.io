@@ -14,15 +14,12 @@ Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liści
 
 ## Nadchodzące inicjatywy
 
-Jeszcze w styczniu 2016 planujemy nieformalne spotkania o lokalnym zasięgu.
-Na chwilę obecną mamy zaplanowane:
+Jeszcze w styczniu 2016 zapraszamy na nieformalne spotkania o lokalnym zasięgu. Na chwilę obecną wiemy o:
 
-* spotkanie w Warszawie (23.01), koordynowane przez Filipa Kiałkę (*mirus.animus (at) gmail.com*)
-* spotkanie we Wrocławiu (23.01), koordynowane przez Krzysztofa Piecucha (*krzysztof.piecuch (at) gmail.com*),
-  poszukiwani też chętni do współorganizacji.
+* spotkaniu w Warszawie koordynowanym przez Filipa Kiałkę (*mirus.animus (at) gmail.com*) oraz Klarę Sielicką. Spotkanie odbędzie się **w sobotę 23.01, od godz. 18 w klubokawiarni Kicia Kocia na Grochowie** (Al. Stanów Zjednoczonych 68).
+* spotkaniu we Wrocławiu koordynowanym przez Krzysztofa Piecucha (*krzysztof.piecuch (at) gmail.com*, potrzebni chętni do współorganizacji!).
 
-Szczegóły organizacyjne spotkań (takie jak miejsce i dodatkowe atrakcje), będą uzależnione od liczby gości i ich preferencji.
-Będziemy je publikowali na bieżąco tutaj i na [wydarzeniu na Facebooku](https://www.facebook.com/events/1675475666050988/).
+Zapraszamy do współdecydowania o kształcie spotkań drogą mailową (pisząc na adresy organizatorów) lub biorąc udział w dyskusji [na Facebooku](https://www.facebook.com/events/1675475666050988/).
 
 Bardzo serdecznie zachęcamy do organizacji kolejnych, podobnych spotkań w innym miejscach (np. Kraków, Londyn),
 czy też we własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie).
