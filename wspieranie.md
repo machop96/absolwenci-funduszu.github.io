@@ -33,6 +33,8 @@ Niektórzy podpieczni Funduszu:
 - Rafał Blechacz - zwycięzca Konkursu Chopinowskiego
 - Jacek Dehnel - poeta i prozaik
 - Adam Bodnar - Rzecznik Praw Obywatelskich
+- Jan Klata - dramaturg, dyrektor Narodowego Starego Teatru w Krakowie
+- Krzysztof Szczerski - polityk, sekretarz stanu w Kancelarii Prezydenta RP
 - około połowy polskich finalistów i zwycięzców międzynarodowych olimpiad informatycznych (a Polacy w czołówce są co roku)
 
 Czasami myślę, że jeżeli za naszego życia jakiś Polak miałby dostać naukowego Nobla,
