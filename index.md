@@ -20,7 +20,7 @@ W nadchodzącym czasie zapraszamy na spotkania nieformalne, na chwilę obecną w
 
 Zapraszamy do współdecydowania o kształcie spotkań drogą mailową (pisząc na adresy organizatorów) lub biorąc udział w dyskusji [na Facebooku](https://www.facebook.com/events/540405812787784/).
 
-Bardzo serdecznie zachęcamy do organizacji kolejnych, podobnych spotkań w innym miejscach (np. Kraków, Londyn), czy też we własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie).
+Bardzo serdecznie zachęcamy do organizacji kolejnych, podobnych spotkań w innych miejscach (np. Kraków, Londyn), czy też we własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie).
 Można liczyć na wsparcie z naszej strony, głównie w postaci udostępnienia kanałów informacyjnych, którymi dysponujemy.
 
 ## Inne inicjatywy
