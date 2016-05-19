@@ -4,29 +4,25 @@ title: Start
 headline: Stowarzyszenie Absolwentów KFnrD
 ---
 
-> Osoby związane z [Funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia
-> (nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
-> Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą,
-> wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.  
+>Osoby związane z [funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia (nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
+>Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą, wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.
+>Chcemy by stowarzyszenie wypełniło tę lukę, a także stanowiło naturalne wsparcie dla działań funduszu.
 
-Chcemy by Stowarzyszenie wypełniło tę lukę, a także stanowiło naturalne wsparcie dla działań Funduszu.
 Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
+**Jeżeli chcesz być na bieżąco z inicjatywami stowarzyszenia, wypełnij [formularz](http://absolwenci-funduszu.org/zgloszenia).**
 
 ## Nadchodzące inicjatywy
 
 W nadchodzącym czasie zapraszamy na spotkania nieformalne, na chwilę obecną wiemy o:
 
-* spotkaniu w Warszawie, które odbędzie się **w sobotę 9 kwietnia** o godzinie 19 w klubokawiarni państwomiasto na Andersa 29. Spotkanie koordynowane jest przez Filipa Kiałkę (*mirus.animus (at) gmail.com*).
+* spotkaniu fizyków, które odbędzie się **w sobotę 4 czerwca** o godzinie 17 w państwomiasto na Andersa 29 w Warszawie.
+Spotkanie organizowane jest przez Filipa Kiałkę (*mirus.animus (at) gmail.com*) oraz Patrycję Mulicę. Więcej szczegółów można znaleźć na [Facebooku](https://www.facebook.com/events/142287626172013).
 
-Zapraszamy do współdecydowania o kształcie spotkań drogą mailową (pisząc na adresy organizatorów) lub biorąc udział w dyskusji [na Facebooku](https://www.facebook.com/events/540405812787784/).
+Zapraszamy do współdecydowania o kształcie spotkań drogą mailową (pisząc na adresy organizatorów) lub biorąc udział w dyskusji na wydarzeniach na Facebooku.
+Bardzo serdecznie zachęcamy też do organizacji kolejnych, podobnych spotkań w innych miejscach (Kraków, Londyn), czy też innych gronach (np. artystów, matematyków, wybranych roczników).
+Można liczyć na wsparcie z naszej strony, głównie w postaci know-how oraz udostępnienia kanałów informacyjnych, którymi dysponujemy.
 
-Bardzo serdecznie zachęcamy do organizacji kolejnych, podobnych spotkań w innych miejscach (np. Kraków, Londyn), czy też we własnych gronach (np. uczestników pewnego wyjątkowego obozu w Jadwisinie).
-Można liczyć na wsparcie z naszej strony, głównie w postaci udostępnienia kanałów informacyjnych, którymi dysponujemy.
+## Minione inicjatywy
 
-## Inne inicjatywy
-
-*Jeżeli chcesz być na bieżąco z innymi inicjatywami Klubu, wypełnij
-[formularz](http://absolwenci-funduszu.org/zgloszenia).*
-
+* Zjazd Absolwentów, 19.12.2015 (fot. Sebastian Soberski).
 <img src="/images/zjazd.jpg" alt="Zdjęcie ze Zjazdu, grudzień 2015" align="centre" />
-**Zjazd Absolwentów, 19.12.2015. fot. Sebastian Soberski**
