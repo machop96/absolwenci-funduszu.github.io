@@ -4,10 +4,12 @@ title: Start
 headline: Stowarzyszenie Absolwentów KFnrD
 ---
 
-Osoby związane z [funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia (nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
-Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą, wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.
-Chcemy by stowarzyszenie wypełniło tę lukę, a także stanowiło naturalne wsparcie dla działań funduszu.
+>Osoby związane z [funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia (nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
+>Ze względu na tę różnorodność brakuje nam naturalnego miejsca spotykania się ze sobą, wymiany myśli, a być może też nawiązywania współpracy i realizowania interdyscyplinarnych projektów.
+>Chcemy by stowarzyszenie wypełniło tę lukę, a także stanowiło naturalne wsparcie dla działań funduszu.
+
 Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
+**Jeżeli chcesz być na bieżąco z inicjatywami stowarzyszenia, wypełnij [formularz](http://absolwenci-funduszu.org/zgloszenia).**
 
 ## Nadchodzące inicjatywy
 
@@ -20,10 +22,7 @@ Zapraszamy do współdecydowania o kształcie spotkań drogą mailową (pisząc 
 Bardzo serdecznie zachęcamy też do organizacji kolejnych, podobnych spotkań w innych miejscach (Kraków, Londyn), czy też innych gronach (np. artystów, matematyków, wybranych roczników).
 Można liczyć na wsparcie z naszej strony, głównie w postaci know-how oraz udostępnienia kanałów informacyjnych, którymi dysponujemy.
 
-## Inne inicjatywy
+## Minione inicjatywy
 
-*Jeżeli chcesz być na bieżąco z inicjatywami stowarzyszenia, wypełnij
-[formularz](http://absolwenci-funduszu.org/zgloszenia).*
-
+* Zjazd Absolwentów, 19.12.2015 (fot. Sebastian Soberski).
 <img src="/images/zjazd.jpg" alt="Zdjęcie ze Zjazdu, grudzień 2015" align="centre" />
-**Zjazd Absolwentów, 19.12.2015. fot. Sebastian Soberski**
