@@ -16,7 +16,7 @@ Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liści
 W nadchodzącym czasie zapraszamy na spotkania nieformalne, na chwilę obecną wiemy o:
 
 * spotkaniu fizyków, które odbędzie się **w sobotę 4 czerwca** o godzinie 17 w państwomiasto na Andersa 29 w Warszawie.
-Więcej szczegółów można znaleźć na [Facebooku](https://www.facebook.com/events/142287626172013); luźne wystąpienie można natomiast zaproponować przez [ten formularz][https://docs.google.com/forms/d/1saYJGjqtjMFQbdM62eEBPLk5iZvPBo76sW_SNf4vVIY/viewform].
+Więcej szczegółów można znaleźć na [Facebooku](https://www.facebook.com/events/142287626172013); luźne wystąpienie można natomiast zaproponować przez [ten formularz](https://docs.google.com/forms/d/1saYJGjqtjMFQbdM62eEBPLk5iZvPBo76sW_SNf4vVIY/viewform).
 Przed spotkaniem zapraszamy do wysłuchania seminarium podsumowującego warsztaty KFnrD na Wydziale Fizyki UW, które rozpocznie się o 9.30 w sali 1.01 w nowym budynku WF na Pasteura 5.
 Spotkanie koordynowane jest przez Filipa Kiałkę (*mirus.animus (at) gmail.com*) oraz Patrycję Mulicę.
 
