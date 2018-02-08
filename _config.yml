@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Absolwenci Funduszu' 
-tagline:          'Stowarzyszenie Absolwentów KFnrD'
-description:      'Stowarzyszenie Absolwentów Krajowego Funduszu na&nbsp;rzecz Dzieci'
+title:            'Stowarzyszenie "Dzieci Funduszu"'
+tagline:          'Stowarzyszenie "Dzieci Funduszu"'
+description:      'Stowarzyszenie Przyjaciół i Absolwentów Krajowego Funduszu na&nbsp;rzecz Dzieci "Dzieci Funduszu"'
 url:              http://absolwenci-funduszu.org
 baseurl:          /
 

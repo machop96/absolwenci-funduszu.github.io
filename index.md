@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Start
-headline: Stowarzyszenie Absolwentów KFnrD
+headline: Stowarzyszenie "Dzieci Funduszu"
 ---
 
 >Osoby związane z [funduszem](http://fundusz.org) zajmują się obecnie różnymi dziedzinami życia (nauka, biznes, sztuka, działalność społeczna), często odnosząc w nich spore sukcesy.
@@ -13,5 +13,5 @@ Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liści
 
 ## Nadchodzące inicjatywy
 
-W 2018 roku odbędzie się kolejny [zjazd absolwentów i przyjaciół funduszu](/zjazd).
+W 2018 roku odbędzie się kolejny [zjazd przyjaciół i absolwentów funduszu](/zjazd).
 Szczegółowe informacje wkrótce.
