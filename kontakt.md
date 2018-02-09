@@ -4,10 +4,10 @@ title: Kontakt
 headline: Kontakt
 ---
 
-Jeśli chcesz wyrazić swoje zainteresowanie akcjami Klubu Absolwenta (np. Zjazdem, platformą internetową),
+Jeśli chcesz wyrazić swoje zainteresowanie akcjami Stowarzyszenia "Dzieci Funduszu" (np. zjazdem, platformą internetową),
 uprzejmie prosimy o wypełnienie [formularza](http://absolwenci-funduszu.org/zgloszenia).
 
-W kwestiach dotyczących działalności Klubu prosimy o kontakt na e-mail:
+W kwestiach dotyczących działalności Stowarzyszenia prosimy o kontakt na e-mail:
 [absolwenci.funduszu@gmail.com](mailto:absolwenci.funduszu@gmail.com).
 Będziemy bardzo wdzięczni za wszelkie sugestie i uwagi dotyczące naszej działalności,
 a także pomysły, co jeszcze należałoby zrobić.
