@@ -13,5 +13,5 @@ Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liści
 
 ## Nadchodzące inicjatywy
 
-W 2018 roku odbędzie się kolejny [zjazd przyjaciół i absolwentów funduszu](/zjazd).
+**1 lipca 2018 roku** (niedziela) w Warszawie odbędzie się kolejny [zjazd przyjaciół i absolwentów funduszu](/zjazd)!
 Szczegółowe informacje wkrótce.
