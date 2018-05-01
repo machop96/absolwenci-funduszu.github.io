@@ -24,4 +24,4 @@ Tegoroczne opłaty wynoszą:
 
 W tym roku czynny udział w zjeździe można wziąć wygłaszając 5-minutowy odczyt (tzw. flashtalk), prowadząc grupę dyskusyjną albo warsztat, a także prezentując krótki występ muzyczny.
 Na propozycje warsztatów oraz występów czekamy **do 27 maja**, natomiast na tematy odczytów **do 10 czerwca**.
-Zgłoszenia przyjmujemy w [tym fomrularzu](https://goo.gl/forms/zT6w9wGylzwcpuJx2).
+Zgłoszenia przyjmujemy w [tym formularzu](https://goo.gl/forms/zT6w9wGylzwcpuJx2).
