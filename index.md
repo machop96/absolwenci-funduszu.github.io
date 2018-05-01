@@ -11,7 +11,7 @@ headline: Stowarzyszenie "Dzieci Funduszu"
 Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
 **Jeżeli chcesz być na bieżąco z inicjatywami stowarzyszenia, wypełnij [formularz](http://absolwenci-funduszu.org/zgloszenia).**
 
-## Nadchodzące inicjatywy
+## Zjazd Przyjaciół i Absolwentów Funduszu 2018
 
 **1 lipca 2018 roku** (niedziela) w Warszawie odbędzie się kolejny [zjazd przyjaciół i absolwentów funduszu](/zjazd)!
-Szczegółowe informacje wkrótce.
+Zapraszamy do rejestracji!
