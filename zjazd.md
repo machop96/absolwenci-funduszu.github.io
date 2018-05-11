@@ -8,8 +8,8 @@ Kolejny Zjazd Przyjaciół i Absolwentów Funduszu odbędzie się **1 lipca 2018
 - formalnej, na którą złożą się przede wszysktkim odczyty, warsztaty oraz występy uczestników  i która odbędzie się na Wydziale Fizyki UW przy ul. Pasteura 5,
 - bankietu w Centralnej Bibliotece Rolniczej, przy ul. Krakowskie Przedmieście 66.
 
-Orientacyjne godziny obu części to 12:00 -- 15:00 (część formalna) i 17:30 -- 21:30 (bankiet).
-Przed częścią formalną (około 10:30) planowane jest walne zebranie członków Stowarzyszenia “Dzieci Finduszu”.
+Orientacyjne godziny obu części to 11:30 -- 14:30 (część plenarno-warsztatowa) i 16:30 -- 20:00 (bankiet).
+Przed częścią formalną (około 9:30) planowane jest walne zebranie członków Stowarzyszenia “Dzieci Finduszu”.
 
 ## Rejestracja
 
