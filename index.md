@@ -13,4 +13,4 @@ Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liści
 
 ## Nadchodzące wydarzenia
 
-**23 maja 2019 roku** (czwartek) w Warszawie odbędzie się odczyt połączony ze spotkaniem nieformalnym. Adam Zadrożny opowie o zastosowaniu sztucznej inteligencji do analizy aktów prawnych. 
+**23 maja 2019 roku** o 18:30 w Klubokawiarni Smocza Fajne Miejsce (ul. Smocza 18) w Warszawie odbędzie się odczyt połączony ze spotkaniem nieformalnym. Adam Zadrożny opowie o zastosowaniu sztucznej inteligencji do analizy aktów prawnych. 
