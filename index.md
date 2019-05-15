@@ -11,7 +11,6 @@ headline: Stowarzyszenie "Dzieci Funduszu"
 Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liście założycielskim](/list).
 **Jeżeli chcesz być na bieżąco z inicjatywami stowarzyszenia, wypełnij [formularz](http://absolwenci-funduszu.org/zgloszenia).**
 
-## Zjazd Przyjaciół i Absolwentów Funduszu 2018
+## Nadchodzące wydarzenia
 
-**1 lipca 2018 roku** (niedziela) w Warszawie odbędzie się kolejny [zjazd przyjaciół i absolwentów funduszu](/zjazd)!
-Zapraszamy do rejestracji!
+**23 maja 2019 roku** (czwartek) w Warszawie odbędzie się odczyt połączony ze spotkaniem nieformalnym. Adam Zadrożny opowie o zastosowaniu sztucznej inteligencji do analizy aktów prawnych. 
