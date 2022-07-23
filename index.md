@@ -13,4 +13,4 @@ Więcej o idei przyświecającej naszej inicjatywie można przeczytać w [liści
 
 ## Nadchodzące wydarzenia
 
-**23 maja 2019 roku** o 18:30 w Klubokawiarni Smocza Fajne Miejsce (ul. Smocza 18) w Warszawie odbędzie się odczyt połączony ze spotkaniem nieformalnym. Adam Zadrożny opowie o zastosowaniu sztucznej inteligencji do analizy aktów prawnych. 
+W grudniu 2022 planujemy organizację III Zjazdu Absolwentów. Więcej szczegółów wkrótce.
